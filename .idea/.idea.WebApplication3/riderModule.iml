@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sdk-3.3.2" level="application" />
+    <orderEntry type="library" name="api" level="application" />
+    <orderEntry type="library" name="sdk" level="application" />
+    <orderEntry type="library" name="jquery-1.7.2" level="application" />
+  </component>
+</module>
