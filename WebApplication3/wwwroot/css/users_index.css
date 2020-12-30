@@ -1,0 +1,10 @@
+﻿.general{
+    width: 500px;
+    height: 31px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.player{
+    margin: 10px;
+}
